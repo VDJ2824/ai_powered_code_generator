@@ -1,6 +1,7 @@
 # CodeMentor AI
 
 CodeMentor AI is a full-stack academic project that acts as an AI-assisted coding mentor. It helps users generate code, explain code, debug code, optimize solutions, review code quality, generate documentation, and maintain personal coding history through a secure web workspace.
+Live on: https://ai-powered-code-generator-virid.vercel.app/ 
 
 ## 1. Project Objective
 
